@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a clone file in local repo
+=======
+this is another file for conflict in remote repo
+>>>>>>> refs/remotes/origin/master
